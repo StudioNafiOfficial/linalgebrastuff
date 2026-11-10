@@ -1,0 +1,1 @@
+im just learning some linear algebra stuff as a way to practice my cpp lol
